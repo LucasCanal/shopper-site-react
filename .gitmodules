@@ -1,0 +1,6 @@
+[submodule "frontend"]
+    path = frontend
+    url = <alguma URL>
+
+rm -rf .git/modules/frontend
+
